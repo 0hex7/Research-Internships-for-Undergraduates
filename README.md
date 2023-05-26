@@ -8,10 +8,12 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 The following are some global research internship positions:
 
-CANADA
+1. CANADA
 
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+        The 2024 student call will be open in August!
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+        Only IIT Bombay & IIT Kharagpur students can apply
 
 US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
