@@ -15,12 +15,17 @@ The following are some global research internship positions:
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
         > Only IIT Bombay & IIT Kharagpur students can apply
 
-US
+2. US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
+        >February 10, 2023	Deadline for Application
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
+        > No dates available. Should keep checking for updates
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+        > Begins: Jun 04 2023 & Ends: Aug 12 2023 The 2023 application deadline has passed.
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
+        > The RI Summer Scholar program admission is now offline. Applications for the summer next cohort will be accepted starting in the fall. 
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
+        > 
   * [QRLSSP Summer Program](https://qrlssp.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
